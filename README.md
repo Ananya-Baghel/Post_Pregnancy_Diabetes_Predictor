@@ -28,5 +28,7 @@ PIMA Indians Diabetes Dataset, accessed via local CSV file
 4. Run all cells to view analysis and insights.
 
 ## 📬 Contact
-For queries or collaboration, connect via [LinkedIn](https://linkedin.com/in/ananya-baghel)
+For queries or collaboration, connect via email.
+
+  
 
